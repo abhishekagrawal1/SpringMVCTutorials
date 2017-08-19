@@ -14,5 +14,10 @@
     <h1>RollNo: ${rollno}</h1>
     <h1>Name: ${name}</h1>
     <h1>Address: ${address}</h1>
+
+Request:
+roolnow: ${springWeb.rollno}
+Name :${springWeb.name}
+Address :${springWeb.address}
 </body>
 </html>
